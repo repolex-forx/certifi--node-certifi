@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "certifi",
+  "repo": "node-certifi",
+  "versions": [
+    {
+      "commit": "868e3910301344f33c8aaad8b58f34fae9d87e3b",
+      "parsed_at": "2026-10-11T20:27:54.143765+00:00",
+      "filetree": "filetree/868e3910301344f33c8aaad8b58f34fae9d87e3b.nq.gz",
+      "blobs": [
+        "blob/51fc7fed9a112a2fec7c2b5ebde50fb6a777724f.nq.gz",
+        "blob/43c97e719a5a824700932f72e6e7e6748ce45d01.nq.gz",
+        "blob/3346ab5caed9219a4b75d579f9258da9baccbb5b.nq.gz",
+        "blob/71324e205f30f9eef273c05949e6043bed8ae92b.nq.gz",
+        "blob/e0cc34891cd3a6a9763d4f877a4ab58ba7ba7336.nq.gz",
+        "blob/391f0a4e4b04a8b63e39431a8444e58f84214805.nq.gz",
+        "blob/2a5dc335bb92acd413bb954d099f2a74fff25840.nq.gz",
+        "blob/060005e33ff2b9cebc928fbc4e5fae2c49832e9b.nq.gz",
+        "blob/239ecff1372358a22aa99dcbb375fdad7abba817.nq.gz",
+        "blob/1c6314a31833395fd5ff016a6506bdd51860657c.nq.gz",
+        "blob/802b53ff11e347c9bd2cabebeff5c51f716f1db9.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
