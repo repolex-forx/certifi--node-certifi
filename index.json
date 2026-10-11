@@ -1,0 +1,11 @@
+{
+  "org": "certifi",
+  "repo": "node-certifi",
+  "versions": [
+    {
+      "commit": "868e3910301344f33c8aaad8b58f34fae9d87e3b",
+      "tag": "",
+      "parsed_at": "2026-10-11T20:30:07.313680+00:00"
+    }
+  ]
+}
