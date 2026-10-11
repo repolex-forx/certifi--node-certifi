@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/certifi/node-certifi/commit/868e3910301344f33c8aaad8b58f34fae9d87e3b",
       "git:hexsha": "868e3910301344f33c8aaad8b58f34fae9d87e3b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/certifi/node-certifi/commit/c5b2ff9235986ee55de8199f81f6097956553f2d",
